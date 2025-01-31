@@ -63,7 +63,7 @@ require_once "validados_acesso.php";
          }
          .exit{
            float: right;
-           padding-left: 75%;
+           padding-left: 70%;
            font-family: 'Poppins', sans-serif;
            font-size: 20px;
          }
